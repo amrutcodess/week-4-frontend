@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 700px;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    border-collapse: collapse;
+    box-shadow: 10px 10px 20px rgb(213, 12, 12);
+    
+}
+table, th, td {
+    border: 5px solid rgb(213, 12, 12);
+}

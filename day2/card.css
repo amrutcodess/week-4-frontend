@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.emp-card{
+    width: 400px;
+    margin: auto;
+    box-shadow: 1px 4px 10px 10px #04eaea33;
+    margin-top: 100px;
+    padding:50px;
+    text-align: center;
+    border-radius: 20px;
+    position:relative
+    
+}
+
+img{
+    width: 100%;
+    border-radius: 50%;
+   
+   
+    
+}
+
+.linkedin{
+  position: absolute;
+  width:100px;
+  height: 100px;    
+    
+    bottom: -50px;
+
+}
+
+.github{
+    position: absolute;
+    width:100px;
+    height: 100px;
+top:0px;
+    right: -50px;
+}
+button{
+    border: none;
+    background-color: antiquewhite;
+    position: sticky;
+    top:100px;
+}
